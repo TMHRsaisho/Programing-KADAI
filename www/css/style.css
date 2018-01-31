@@ -1,0 +1,15 @@
+/**/
+.hoge {
+  width:400px;
+  height:150px;
+}
+
+.minWidthMode .hoge {
+  width: 150px;
+  height:150px;
+}
+
+.wideWidthMode .hoge {
+  width: 600px;
+  height:300px;
+}
